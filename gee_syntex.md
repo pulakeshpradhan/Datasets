@@ -1,4 +1,4 @@
-# Comprehensive Google Earth Engine (GEE) Syntax Reference
+# Commonly Used GEE Syntax Reference
 
 This document provides a comprehensive reference for commonly used Google Earth Engine (GEE) syntax and functions, organized by category with detailed examples.
 
