@@ -1,5 +1,5 @@
 # Commonly Used GEE Syntax Reference
-
+## [Goto Online Version for Copy the Codes Click Here ](https://github.com/pulakeshpradhan/Datasets/blob/main/gee_syntex.md)
 This document provides a comprehensive reference for commonly used Google Earth Engine (GEE) syntax and functions, organized by category with detailed examples.
 
 ## Table of Contents
